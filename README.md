@@ -1,5 +1,4 @@
 # digit_recognition_app
-Awesome — let’s wrap this into a clean, professional GitHub-ready project structure and a well-written `README.md`.
 
 ---
 
