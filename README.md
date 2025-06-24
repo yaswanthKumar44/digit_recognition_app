@@ -2,20 +2,6 @@
 
 ---
 
-## 📦 Final Project Structure
-
-```
-digit_recognition_app/
-├── model/
-│   └── digit_recognizer.h5      # trained model (generated after training)
-├── app.py                       # Flask app with web interface + prediction
-├── train_model.py               # model training script (on MNIST)
-├── requirements.txt             # all dependencies
-└── README.md                    # full project description and usage
-```
-
----
-
 ## 📄 requirements.txt
 
 ```text
@@ -161,5 +147,4 @@ This project is open-source and free to use.
 
 Leave a ⭐ if you like the project!
 
-```
   
