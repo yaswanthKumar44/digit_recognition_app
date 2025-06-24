@@ -28,21 +28,6 @@ numpy
 
 ---
 
-## 📄 README.md
-
-```markdown
-# 🖐️ Handwritten Digit Recognition Web App (with Flask)
-
-A simple deep learning-based handwritten digit recognition web app using a Convolutional Neural Network (CNN) trained on the MNIST dataset, served via Flask. Draw a digit in your browser and let the app predict what it is!
-
----
-
-## 📸 Demo
-
-https://user-images.githubusercontent.com/your-video-or-gif-link-here.gif
-
----
-
 ## 📂 Project Structure
 
 ```
