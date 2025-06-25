@@ -57,7 +57,7 @@ digit\_recognition\_app/
 1️⃣ **Clone this repository**
 
 ```bash
-git clone https://github.com/yourusername/digit_recognition_app.git
+git clone https://github.com/yaswanthKumar44/digit_recognition_app.git
 cd digit_recognition_app
 ````
 
